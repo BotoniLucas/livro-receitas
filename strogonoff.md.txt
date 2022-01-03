@@ -1,0 +1,10 @@
+#Strogonoff de frango (título 1) :chicken (emoji)
+
+**Negrito
+_itálico_
+
+
+##Ingredientes (título 2)
+
+ - Lista não ordenada
+ 1. Lista ordenada
