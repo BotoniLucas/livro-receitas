@@ -1,4 +1,4 @@
-#Strogonoff de frango (título 1) :chicken (emoji)
+# Strogonoff de frango (título 1) :chicken (emoji)
 
 **Negrito
 _itálico_
